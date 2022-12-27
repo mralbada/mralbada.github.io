@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "rdpolboot"
+permalink: /rdpolboot/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 # rdpolboot
 
 The ```rdpolboot``` function calculates bootstrapped confidence intervals around the asymptotic mean squared error (AMSE).
