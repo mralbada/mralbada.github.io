@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# rdpolboot
-
-The ```rdpolboot``` function calculates bootstrapped confidence intervals around the asymptotic mean squared error (AMSE).
+The `rdpolboot` function calculates bootstrapped confidence intervals around the asymptotic mean squared error (AMSE).
 
 ### Stata Implementation
 To install/update in Stata type:
